@@ -1,5 +1,5 @@
 project "imgui"
-    kind "staticlibrary"
+    kind "staticlib"
     language "C++"
     cppdialect "C++20"
     staticruntime "on"
